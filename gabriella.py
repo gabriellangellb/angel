@@ -1,11 +1,12 @@
 #A little about myself
 names = "Gabriella Angel Bayinze Lukyamuzi."
 dob = "10/01/2004.";
+age = 20
 gender = "Female";
 nationality = "Ugandan.";
 hobbies = "Swimming,Travelling, Shopping, Watching movies, Family time,Friends.";
 
-print (f"My name is {names} I was born on {dob} I am a {gender} {nationality} I love {hobbies}");
+print (f"My name is {names} I was born on {dob} making me {age} years in 2024. I am a {gender} {nationality} I love {hobbies}");
 
 
 #simple function
