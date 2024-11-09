@@ -11,8 +11,8 @@ print (f"My name is {names} I was born on {dob} making me {age} years in 2024. I
 
 #simple function
 try:
-    base = 5
-    height = 10
+    base = 31
+    height = 79
     area = (0.5 *base* height)
     print(f" Area: {area}")
 except (ValueError, TypeError) as e:
